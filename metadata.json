@@ -1,0 +1,6 @@
+{
+  "name": "PlateSense AI",
+  "description": "An interactive food color and nutrition awareness app that analyzes visual composition, freshness, browning, and estimated macros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
